@@ -1,0 +1,19 @@
+.form-control {
+	background-color: #E2E2E2;
+	font-family: Montserrat;
+}
+
+.btn-primary {
+	background-color: #E2E2E2;
+	border-color: #E2E2E2;
+	color: #333;
+	font-weight: bold;
+}
+
+.btn-primary:hover {
+	border-color: #E2E2E2;
+}
+
+.contact-header {
+	font-family: Montserrat;
+}
